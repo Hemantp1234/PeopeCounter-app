@@ -1,0 +1,24 @@
+body
+{
+    text-align: center;
+    background-color: rgb(111, 34, 99);
+    border: 2px solid black;
+    margin: 10%;
+}
+
+#increment-btn,#save-btn,#zero-btn
+{
+    padding: 10px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(109, 109, 187);
+    border: none;
+    border-radius: 10%;
+
+}
+
+p
+{
+    font-size: 20px;
+    font-weight: bold;
+}
